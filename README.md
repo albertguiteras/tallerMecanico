@@ -1,4 +1,4 @@
-# Taller Mecánico — Agenda de Talleres y Servicios
+# Lab: Taller Mecánico — Agenda de Talleres y Servicios
 
 ## 📖 Descripción del Laboratorio
 
@@ -19,6 +19,7 @@ Modelado y gestión de una agenda de talleres mecánicos con datos de contacto y
 
 - **Java 17+**
 - **IntelliJ IDEA**
+- **POO y Colecciones**
 
 ---
 
